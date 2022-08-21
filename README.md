@@ -12,7 +12,7 @@ public class SetExample {
 		
 		Set<Integer> b = new HashSet<Integer>();
 		
-	b.addAll(Arrays.asList(
+		b.addAll(Arrays.asList(
 			new Integer[] { 1, 3, 7, 5, 4, 0, 7, 5 }));
 
 		
